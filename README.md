@@ -4,10 +4,6 @@
 
 **Live:** [crypto-course-landing-tau.vercel.app](https://crypto-course-landing-tau.vercel.app)
 
-<p align="center">
-  <img src="assets/preview.webp" alt="master-crypto — the live site" width="100%">
-</p>
-
 `HTML` · `CSS` · `vanilla JS` · `GSAP 3.12.5` · `ScrollTrigger` · `Lenis 1.1.14` · `Vercel`
 
 ---
